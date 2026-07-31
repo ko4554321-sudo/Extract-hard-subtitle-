@@ -1,6 +1,0 @@
-git init
-git remote add origin https://github.com/ko4554321-sudo/Extract-hard-subtitle-.git
-git branch -M main
-git add .
-git commit -m "Update HSub V1 - Offline TTS Piper support & OCR hard subtitle extractor"
-git push -u origin main --force
